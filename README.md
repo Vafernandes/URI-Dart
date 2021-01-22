@@ -8,7 +8,7 @@ Escreva um programa que leia o número de um funcionário, seu número de horas 
 
 **Entrada**
 
-O arquivo de entrada contém 2 números inteiros e 1 número com duas casas decimais, representando o número, quantidade de horas trabalhadas e o valor que o funcionário recebe por hora trabalhada, respectivamente.
+O arquivo de entrada contém 2 números inteiros e 1 número com duas casas decimais, representando o número, quantidade de horas trabalhadas e o valor que o funcionário recebe por hora trabalhada, respectivamente. 
 
 **Saída**
 
